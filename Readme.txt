@@ -1,5 +1,5 @@
 1. To set up the venv on your computer, type: 
-pip -m venv .venv 
+```pip -m venv .venv ```
 within the same folder as the 'data' folder and all the other .py files
 
 2. To activate if you are on a windows device, type: 
